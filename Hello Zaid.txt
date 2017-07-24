@@ -1,3 +1,6 @@
 This text file has a title and a body of text.
 
 Edit 1: Pushing to repository isn't working.
+
+Edit 2: After SSH Authentication, pushing to repos is working.
+
